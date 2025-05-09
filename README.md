@@ -66,11 +66,12 @@ You are welcome to make any additional changes, fixes, or enhancements as you se
 2. **Commit and push** your changes.
 
 ### Submitting Your Completed Exercise
-When you're finished, send us the following:
+When you're finished, add the send us the following:
 
 1. **A link to your pull request** from `code-review` into `main`. 
 2. **Links to your commits** on the `improvements` branch, with brief explanations of what you changed in each commit and why.
 3. Include the total time it took you to complete the exercise.
+4. **Ensure the repository is private** and that the GitHub reviewers, as provided in the email, have access.
 
 
 ## Disclaimers
